@@ -1,2 +1,2 @@
 # redtekki.github.io
-My website :scuffed_joy:
+My website is under construction. Stay tuned.

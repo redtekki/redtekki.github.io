@@ -1,0 +1,32 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 263px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 219px;
+  height: 137px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: SegUIVar;
+  font-size: 3.75rem;
+  background-image: none;
+  font-weight: 900;
+  margin: 30px auto 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-bottom: 60px;
+  }
+}@font-face {
+  font-family: 'SegUIVar';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SegUIVar.ttf);
+}
